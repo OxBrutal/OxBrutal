@@ -1,7 +1,6 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCwicj8K5z-D9p5S4XDLB-6lmIvgl7iDb1R4h61u-Seow3jEdgjVeSxJ_ohahru7mFUw07Yft9HczAfKbL26aN0_mYxJad4XJGd66_nYkA8kaqBLB4Grbh37UpjRHlKZUb0_imFvTi1IqTA2j1XkpOmIIuiZk-sA3RT2lwIJSZwwwBMQyOlajOsl7D/s1280/20220802_142054.jpg)](https://kanaismp.xyz)
 <h1 align="center">Hi 👋, I'm QyuuNee</h1>
 <h3 align="center">Owner Of A Small Server Named Kanai Smp.</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/F_XfMgOwc2QAAAAC/steins-gate-tuturu.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oxbrutal&label=Profile%20views&color=0e75b6&style=flat" alt="oxbrutal" /> </p>
 
