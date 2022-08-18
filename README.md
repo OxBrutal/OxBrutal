@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I'm currently working on [Kanai Smp](discord.gg/JS9tT3ANsK)
+- 🔭 I'm currently working on [Kanai Smp](https://discord.gg/JS9tT3ANsK)
 
 - 🌱 I’m currently learning **HTML, JavaScript, Python, and more**
 
 - 💸 WhatsApp Group [Kanai Smp](https://chat.whatsapp.com/BIMcEK6D0fQBoGPYiY7JuF)
 
-- 🤝 I’m looking for help with [Need Help? Klick Here.](wa.me/6288210828960)
+- 🤝 I’m looking for help with [Need Help? Klick Here.](https://wa.me/6288210828960)
 
-- 👨‍💻 All of my projects are available at [kanaismp.xyz](kanaismp.xyz)
+- 👨‍💻 All of my projects are available at [kanaismp.xyz](https://kanaismp.xyz)
 
-- 📝 I regularly write articles on [kanaismp.xyz](kanaismp.xyz)
+- 📝 I regularly write articles on [kanai smp](https://kanaismp.xyz)
 
 - 💬 Ask me about **react**
 
@@ -30,9 +30,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/qyuu gz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="qyuu gz" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rojerjeck.jeck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="qyuu gz" height="30" width="40" /></a>
 <a href="https://instagram.com/iamunderox_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamunderox_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/qyuu nee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="qyuu nee" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/MasCaptOfficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="qyuu nee" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/JS9tT3ANsK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/JS9tT3ANsK" height="30" width="40" /></a>
 </p>
 
