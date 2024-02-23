@@ -14,7 +14,7 @@ Want to see the Random Code? you choose the right person :3
 
 
 <div>
-<img src="https://i.pinimg.com/originals/cc/af/0e/ccaf0ed094a78e40c012e1b908d679ed.jpg" width="300" align="left" />
+<img src="https://i.pinimg.com/originals/ae/96/bc/ae96bc0493ba1730630bc307a1d90e12.jpg" width="300" align="left" />
 <hr>
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31x26y6mbrwjpxkl64skncmykrbu&cover_image=true&theme=natemoo-re&bar_color=3dd8ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31x26y6mbrwjpxkl64skncmykrbu&redirect=true)
