@@ -17,7 +17,7 @@ Want to see the Random Code? you choose the right person :3
 <img src="https://i.pinimg.com/originals/ae/96/bc/ae96bc0493ba1730630bc307a1d90e12.jpg" width="300" align="left" />
 <hr>
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31x26y6mbrwjpxkl64skncmykrbu&cover_image=true&theme=natemoo-re&bar_color=3dd8ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31x26y6mbrwjpxkl64skncmykrbu&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31x26y6mbrwjpxkl64skncmykrbu&cover_image=true&theme=natemoo-re&bar_color=3dd8ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31x26y6mbrwjpxkl64skncmykrbu&redirect=true)
   
 #### languages and tools I've used
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width=20> <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width=20>
