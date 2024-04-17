@@ -1,7 +1,7 @@
 <div>
 <img src="https://i.pinimg.com/originals/bc/da/8b/bcda8b7fb3e7300b132b848ae5a8585a.jpg" width="200" align="right" />
   <h1> About Me 👋🏻 </h1>
-Hello, I'm QyuuNee you can call me Koi. I'm a weebs in this universe <br>Hmm but im currently learning Japanese.
+Hello, I'm Koi. a weebs in this universe <br>Hmm but im currently learning Japanese.
 
 Want to see the Random Code? you choose the right person :3
 
